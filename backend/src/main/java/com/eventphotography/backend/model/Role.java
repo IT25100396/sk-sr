@@ -1,0 +1,14 @@
+package com.eventphotography.backend.model;
+
+public enum Role {
+
+    CUSTOMER,
+    OPERATIONS_MANAGER,
+    SENIOR_EVENT_PHOTOGRAPHER,
+    ALBUM_DESIGNER,
+    FINANCE_ADMIN_EXECUTIVE,
+    CUSTOMER_RELATIONS_OFFICER,
+    ADMINISTRATOR,
+    IT_COORDINATOR
+
+}
